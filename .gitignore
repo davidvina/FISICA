@@ -1,0 +1,5 @@
+sketch.properties
+build-tmp/
+build-tmp/*
+
+.DS_Store
